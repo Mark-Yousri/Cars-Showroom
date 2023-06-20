@@ -1,0 +1,20 @@
+Garage ID :1
+Garage Name :garage1
+Phone Number :98765345
+Garage Location :Al-Nozha
+
+Garage ID :2
+Garage Name :garage1
+Phone Number :1234567
+Garage Location :Nasr City
+
+Garage ID :3
+Garage Name :garage1
+Phone Number :1234567
+Garage Location :Nasr City
+
+Garage ID :9
+Garage Name :uytr
+Phone Number :8765
+Garage Location :trew
+

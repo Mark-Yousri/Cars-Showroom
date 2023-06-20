@@ -1,0 +1,4 @@
+﻿  Showrooms.cpp
+D:\Collage\Year 2\Semester 2\DS\Ds_project\Ds_project\Ds_project\Showrooms.cpp(384,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Collage\Year 2\Semester 2\DS\Ds_project\Ds_project\Ds_project\Showrooms.cpp(409,7): warning C4101: 'name': unreferenced local variable
+  Ds_project.vcxproj -> D:\Collage\Year 2\Semester 2\DS\Ds_project\Ds_project\Debug\Ds_project.exe

@@ -1,0 +1,59 @@
+Showroom ID :1
+Showroom Name :ShowRoom1
+Phone Number :1023657984
+Showroom Location :NasrCity
+
+Car ID :1
+Car Make :Chevrolet
+Car Model :soso
+Car Year :2010
+Car Price :150.989
+
+Car ID :2
+Car Make :Chevrolet
+Car Model :soso
+Car Year :2009
+Car Price :500.509
+$:
+
+Showroom ID :7
+Showroom Name :ShowRoom
+Phone Number :1579864563
+Showroom Location :Heliopolis
+
+Car ID :7
+Car Make :sdfg
+Car Model :dfgr
+Car Year :456
+Car Price :4567
+$:
+
+
+Showroom ID :3
+Showroom Name :ShowRoom3
+Phone Number :1269874532
+Showroom Location :5th_Settlement
+
+Car ID :7
+Car Make :sdfg
+Car Model :dfgr
+Car Year :456
+Car Price :4567
+
+Car ID :1
+Car Make :Chevrolet
+Car Model :soso
+Car Year :2010
+Car Price :150.989
+$:
+Showroom ID :98
+Showroom Name :My
+Phone Number :456
+Showroom Location :MyLocation
+
+Car ID :12
+Car Make :mycar
+Car Model :my
+Car Year :58
+Car Price :567
+$:

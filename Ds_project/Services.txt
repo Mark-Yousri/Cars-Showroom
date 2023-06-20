@@ -1,0 +1,17 @@
+Service ID :1
+Service Name :Repair
+Service price :800
+Service time :10:00
+worker name :Ahmed
+
+Service ID :2
+Service Name :Wash
+Service price :350
+Service time :10:00
+worker name :Ahmed
+
+Service ID :3
+Service Name :checkup
+Service price :300
+Service time :10:00
+worker name :Ahmed
